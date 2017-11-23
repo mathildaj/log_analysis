@@ -20,7 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## How to run the application
 
-1. Start your Git Bash command toool.
+1. Start your Git Bash command tool.
 2. cd into vagrant folder on your local machine, where you placed your VM image. Such as cd C:\MY_VM\vagrant
 3. At command prompt, type vagrant up ($ vagrant up). This may take a long time to run for the first time. Be patient.
 4. Once Git Bash is at the command prompt again, type vagrant ssh ($ vagrant ssh). This will let your log into your VM.
@@ -38,7 +38,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 None
 
-## Acknowledgments
+## Acknowledgements
 
 * The VM image and database are downloaded from Udacity Full Stack Developer Program.
 
